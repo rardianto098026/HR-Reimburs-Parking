@@ -1,0 +1,60 @@
+C:\Project\CODING\HR\HRReimbursParking\bin\HRReimbursParking.dll.config
+C:\Project\CODING\HR\HRReimbursParking\bin\HRReimbursParking.dll
+C:\Project\CODING\HR\HRReimbursParking\bin\HRReimbursParking.pdb
+C:\Project\CODING\HR\HRReimbursParking\bin\HRReimbursParking.xml
+C:\Project\CODING\HR\HRReimbursParking\obj\Release\HRReimbursParking.Resources.resources
+C:\Project\CODING\HR\HRReimbursParking\obj\Release\HRReimbursParking.vbproj.GenerateResource.Cache
+C:\Project\CODING\HR\HRReimbursParking\obj\Release\HRReimbursParking.dll
+C:\Project\CODING\HR\HRReimbursParking\obj\Release\HRReimbursParking.xml
+C:\Project\CODING\HR\HRReimbursParking\obj\Release\HRReimbursParking.pdb
+C:\Project\CODING\HR\HRReimbursParking\obj\Release\HRReimbursParking.vbprojResolveAssemblyReference.cache
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.dll.config
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.dll
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.pdb
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.xml
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.vbprojResolveAssemblyReference.cache
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.Resources.resources
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.vbproj.GenerateResource.Cache
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.dll
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.xml
+C:\Users\bulan suci\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.pdb
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\bin\HRReimbursParking.dll.config
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\bin\HRReimbursParking.dll
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\bin\HRReimbursParking.pdb
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\bin\HRReimbursParking.xml
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\obj\Release\HRReimbursParking.vbprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\obj\Release\HRReimbursParking.Resources.resources
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\obj\Release\HRReimbursParking.vbproj.GenerateResource.Cache
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\obj\Release\HRReimbursParking.dll
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\obj\Release\HRReimbursParking.xml
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\punyabulan\HRReimbursParking\obj\Release\HRReimbursParking.pdb
+C:\Users\bulan suci\Desktop\HRReimbursParking\bin\HRReimbursParking.dll.config
+C:\Users\bulan suci\Desktop\HRReimbursParking\bin\HRReimbursParking.dll
+C:\Users\bulan suci\Desktop\HRReimbursParking\bin\HRReimbursParking.pdb
+C:\Users\bulan suci\Desktop\HRReimbursParking\bin\HRReimbursParking.xml
+C:\Users\bulan suci\Desktop\HRReimbursParking\obj\Release\HRReimbursParking.vbprojResolveAssemblyReference.cache
+C:\Users\bulan suci\Desktop\HRReimbursParking\obj\Release\HRReimbursParking.Resources.resources
+C:\Users\bulan suci\Desktop\HRReimbursParking\obj\Release\HRReimbursParking.vbproj.GenerateResource.Cache
+C:\Users\bulan suci\Desktop\HRReimbursParking\obj\Release\HRReimbursParking.dll
+C:\Users\bulan suci\Desktop\HRReimbursParking\obj\Release\HRReimbursParking.xml
+C:\Users\bulan suci\Desktop\HRReimbursParking\obj\Release\HRReimbursParking.pdb
+C:\Users\bulan suci\Documents\HRReimbursParking\bin\HRReimbursParking.dll.config
+C:\Users\bulan suci\Documents\HRReimbursParking\bin\HRReimbursParking.dll
+C:\Users\bulan suci\Documents\HRReimbursParking\bin\HRReimbursParking.pdb
+C:\Users\bulan suci\Documents\HRReimbursParking\bin\HRReimbursParking.xml
+C:\Users\bulan suci\Documents\HRReimbursParking\obj\Release\HRReimbursParking.vbprojResolveAssemblyReference.cache
+C:\Users\bulan suci\Documents\HRReimbursParking\obj\Release\HRReimbursParking.Resources.resources
+C:\Users\bulan suci\Documents\HRReimbursParking\obj\Release\HRReimbursParking.vbproj.GenerateResource.Cache
+C:\Users\bulan suci\Documents\HRReimbursParking\obj\Release\HRReimbursParking.dll
+C:\Users\bulan suci\Documents\HRReimbursParking\obj\Release\HRReimbursParking.xml
+C:\Users\bulan suci\Documents\HRReimbursParking\obj\Release\HRReimbursParking.pdb
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.dll.config
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.dll
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.pdb
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\bin\HRReimbursParking.xml
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.vbprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.Resources.resources
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.vbproj.GenerateResource.Cache
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.dll
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.xml
+C:\Users\Rizky Ardianto\Desktop\HR Reimburs Parking\HRReimbursParking\obj\Release\HRReimbursParking.pdb

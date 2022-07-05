@@ -1,0 +1,125 @@
+﻿body {
+font-family:Tahoma;
+font-size:11px;
+color:#5F5F5F;
+text-align:center;
+background-color:#FFF;
+margin:inherit 0;
+}
+
+
+.AMFont 
+{
+	color:#0055AA;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bolder;
+}
+
+.GridAlt {
+font-size:11px;
+color:#000;
+font-family:Tahoma;
+text-decoration:none;
+text-align:justify;
+background-color:#EBEBEB;
+height:18px;
+}
+
+.GridItem {
+font-size:11px;
+color:#000;
+font-family:Tahoma;
+text-decoration:none;
+text-align:justify;
+background-color:#F5F5F5;
+height:18px;
+}
+
+.GridAltITReview {
+font-size:10px;
+color:#000;
+font-family:Tahoma;
+text-decoration:none;
+text-align:justify;
+background-color:#EBEBEB;
+height:18px;
+}
+
+.GridItemITReview {
+font-size:10px;
+color:#000;
+font-family:Tahoma;
+text-decoration:none;
+text-align:justify;
+background-color:#F5F5F5;
+height:18px;
+}
+
+.GridPaging {
+font-size:12px;
+color:#000;
+font-family:Tahoma;
+text-decoration:none;
+text-align:justify;
+background-color:#FFFFFF;
+height:18px;
+}
+
+.tDatagrid {
+font-family:Verdana;
+color:#000;
+font-size:11px;
+    margin-right: 0px;
+}
+
+.tDatagridITReview {
+font-family:Verdana;
+color:#000;
+font-size:9px;
+    margin-left: 0px;
+}
+
+.GridHeader 
+{
+font-size:8px;
+font-family:Verdana;
+font-weight:700;
+color:#FFF;
+text-decoration:none;
+text-align:center;
+background-color:#0055AA;
+height:20px;
+}
+
+.GridPager {
+font-size:10px;
+font-family:Verdana;
+color:#000;
+text-align:center;
+background-color:#F5F5F5;
+height:17px;
+}
+
+.textbox {
+font-size:11px;
+color:black;
+font-family:tahoma;
+font-weight:400;
+background-color: #FAFAFA;
+text-decoration:none;
+border:1px solid #a0a0a0;
+}
+
+
+.textbox_2 {
+font-size:11px;
+color:black;
+font-family:tahoma;
+font-weight:400;
+background-color: #FAFAFA;
+text-decoration:none;
+border:1px solid #a0a0a0;
+    width: 26px;
+}
+

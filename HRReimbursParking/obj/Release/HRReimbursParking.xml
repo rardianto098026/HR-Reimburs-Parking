@@ -1,0 +1,5436 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HRReimbursParking
+</name>
+</assembly>
+<members>
+<member name="F:HRReimbursParking.AddMasterMenu._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._lblErr_Upload">
+<summary>
+lblErr_Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._txtMenuName">
+<summary>
+txtMenuName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._btnChild">
+<summary>
+btnChild control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenu._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._lblErr_Upload">
+<summary>
+lblErr_Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._txtMenuChildName">
+<summary>
+txtMenuChildName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._txtPath">
+<summary>
+txtPath control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._ddl_Mst_Menu">
+<summary>
+ddl_Mst_Menu control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AddMasterMenuChild._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._Add">
+<summary>
+Add control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._Edit">
+<summary>
+Edit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._type">
+<summary>
+type control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._txttype">
+<summary>
+txttype control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._ddl_type">
+<summary>
+ddl_type control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._amount">
+<summary>
+amount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._txtamount">
+<summary>
+txtamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._year">
+<summary>
+year control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._ddlyear">
+<summary>
+ddlyear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._quarter">
+<summary>
+quarter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._ddlquarter">
+<summary>
+ddlquarter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._rangeperiod">
+<summary>
+rangeperiod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._txtrangeperiod">
+<summary>
+txtrangeperiod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.AmountMonthlyPerVehicle._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="P:HRReimbursParking.DataAccessBase.ConnectionString">
+ <summary>
+ Gets or sets the string used to open a SQL Server database.
+ </summary>
+ <returns>The connection string that includes the source database name, and other parameters needed to establish the initial connection.</returns>
+</member>
+<member name="M:HRReimbursParking.DataAccessBase.FillDataset(System.String,System.String,System.Data.CommandType,System.Data.SqlClient.SqlParameter[])">
+ <summary>
+ Adds or refreshes rows in the System.Data.DataSet to match those in the data source using the System.Data.DataSet name, and creates a System.Data.DataTable named "Table."
+ </summary>
+ <param name="cmd">The Transact-SQL statement or stored procedure to execute at the data source.</param>
+ <param name="cmdType">A value indicating how the System.Data.SqlClient.SqlCommand.CommandText property is to be interpreted.</param>
+ <param name="parameters">The parameters of the Transact-SQL statement or stored procedure.</param>
+ <returns>A System.Data.Dataset object.</returns>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._EmpID">
+<summary>
+EmpID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._lblEmplID">
+<summary>
+lblEmplID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Name">
+<summary>
+Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Entity">
+<summary>
+Entity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._lbltipe">
+<summary>
+lbltipe control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._ddl_tipekendaraan">
+<summary>
+ddl_tipekendaraan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._trSingle">
+<summary>
+trSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._lblsingledouble">
+<summary>
+lblsingledouble control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._ddlsingledouble">
+<summary>
+ddlsingledouble control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Label23">
+<summary>
+Label23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._trNoPol1">
+<summary>
+trNoPol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._nopol1">
+<summary>
+nopol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtnopol1">
+<summary>
+txtnopol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._NoPol4">
+<summary>
+NoPol4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._trNoPol2">
+<summary>
+trNoPol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._nopol2">
+<summary>
+nopol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtnopol2">
+<summary>
+txtnopol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Textbox2">
+<summary>
+Textbox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Label21">
+<summary>
+Label21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._totalamount">
+<summary>
+totalamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txttotalamount">
+<summary>
+txttotalamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._datefrom">
+<summary>
+datefrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtdatefrom">
+<summary>
+txtdatefrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._dateto">
+<summary>
+dateto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtdateto">
+<summary>
+txtdateto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._totaldays">
+<summary>
+totaldays control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txttotalday">
+<summary>
+txttotalday control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Year">
+<summary>
+Year control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._ddlyear">
+<summary>
+ddlyear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtUpload">
+<summary>
+txtUpload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Upload">
+<summary>
+Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._LinkDwn1">
+<summary>
+LinkDwn1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txttotalamountapprove2">
+<summary>
+txttotalamountapprove2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._ttlamountapprove">
+<summary>
+ttlamountapprove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txttotalamountapprove">
+<summary>
+txttotalamountapprove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._remarks">
+<summary>
+remarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtremarks2">
+<summary>
+txtremarks2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtremarks">
+<summary>
+txtremarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._txtstatus">
+<summary>
+txtstatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._btnBack2">
+<summary>
+btnBack2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._btnApprove">
+<summary>
+btnApprove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._btnReject">
+<summary>
+btnReject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._btnBack">
+<summary>
+btnBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Approval._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblID">
+<summary>
+lblID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblID2">
+<summary>
+lblID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblNamaKaryawan">
+<summary>
+lblNamaKaryawan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblNoPolExisting">
+<summary>
+lblNoPolExisting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblNoPolExisting2">
+<summary>
+lblNoPolExisting2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label16">
+<summary>
+Label16 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label17">
+<summary>
+Label17 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblTypeKendExisting">
+<summary>
+lblTypeKendExisting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label15">
+<summary>
+Label15 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblRange">
+<summary>
+lblRange control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._chkP3">
+<summary>
+chkP3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._chkP4">
+<summary>
+chkP4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._chkP5">
+<summary>
+chkP5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._chkUpdate">
+<summary>
+chkUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._lblErr_Upload">
+<summary>
+lblErr_Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._ddl">
+<summary>
+ddl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._trSingle">
+<summary>
+trSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label22">
+<summary>
+Label22 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._ddlSingle">
+<summary>
+ddlSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label23">
+<summary>
+Label23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label8">
+<summary>
+Label8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._txtNoPolUpdate">
+<summary>
+txtNoPolUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._NoPol4">
+<summary>
+NoPol4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label12">
+<summary>
+Label12 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._trHide">
+<summary>
+trHide control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label20">
+<summary>
+Label20 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._txtNoPolUpdate2">
+<summary>
+txtNoPolUpdate2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Textbox2">
+<summary>
+Textbox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label21">
+<summary>
+Label21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._txtRemarks">
+<summary>
+txtRemarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label14">
+<summary>
+Label14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._btnBack">
+<summary>
+btnBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label9">
+<summary>
+Label9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label11">
+<summary>
+Label11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._Label10">
+<summary>
+Label10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Detail_Reimburs._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_ErrorHandler._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_ErrorHandler._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_ErrorHandler._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_ErrorHandler._Table2">
+<summary>
+Table2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_ErrorHandler._Table1">
+<summary>
+Table1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_ErrorHandler._LogOut">
+<summary>
+LogOut control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._lblQuarter">
+<summary>
+lblQuarter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._ddlQuater">
+<summary>
+ddlQuater control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._txtDate">
+<summary>
+txtDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._lblErr">
+<summary>
+lblErr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._lblPeriod">
+<summary>
+lblPeriod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._ddlYear">
+<summary>
+ddlYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._dgRekeningKoran">
+<summary>
+dgRekeningKoran control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._Table4">
+<summary>
+Table4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Expired._lbl2">
+<summary>
+lbl2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._ChkEmpl1">
+<summary>
+ChkEmpl1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblEmplID1">
+<summary>
+lblEmplID1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._txtEmplID">
+<summary>
+txtEmplID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblEmplID2">
+<summary>
+lblEmplID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._ChkName">
+<summary>
+ChkName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._txtName">
+<summary>
+txtName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._CheckEntity1">
+<summary>
+CheckEntity1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblEntity1">
+<summary>
+lblEntity1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._ddlEntity1">
+<summary>
+ddlEntity1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._chkYear">
+<summary>
+chkYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._ddlyear">
+<summary>
+ddlyear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Checkstat">
+<summary>
+Checkstat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._ddlstatus">
+<summary>
+ddlstatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblstat">
+<summary>
+lblstat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._Search">
+<summary>
+Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lnkExport">
+<summary>
+lnkExport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._btn_Hidden">
+<summary>
+btn_Hidden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._dg_TRN_Reimburst2">
+<summary>
+dg_TRN_Reimburst2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._pnlfooter">
+<summary>
+pnlfooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._tablepaging">
+<summary>
+tablepaging control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lbFirst">
+<summary>
+lbFirst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lbPrev">
+<summary>
+lbPrev control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._txtGO">
+<summary>
+txtGO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblTotal">
+<summary>
+lblTotal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lnkGo">
+<summary>
+lnkGo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lnkNext">
+<summary>
+lnkNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lnkLast">
+<summary>
+lnkLast control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._lblTotalRecords">
+<summary>
+lblTotalRecords control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._ddl_View">
+<summary>
+ddl_View control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Export._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblID">
+<summary>
+lblID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblID2">
+<summary>
+lblID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblNamaKaryawan">
+<summary>
+lblNamaKaryawan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblNoPolExisting">
+<summary>
+lblNoPolExisting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblNoPolExisting2">
+<summary>
+lblNoPolExisting2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label24">
+<summary>
+Label24 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label25">
+<summary>
+Label25 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblTypeKendExisting">
+<summary>
+lblTypeKendExisting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label15">
+<summary>
+Label15 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblRange">
+<summary>
+lblRange control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._chkP3">
+<summary>
+chkP3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._chkP4">
+<summary>
+chkP4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._chkP5">
+<summary>
+chkP5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._chkUpdate">
+<summary>
+chkUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lb22">
+<summary>
+lb22 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._lblErr_Upload">
+<summary>
+lblErr_Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._ddl">
+<summary>
+ddl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._trSingle">
+<summary>
+trSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label22">
+<summary>
+Label22 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._ddlSingle">
+<summary>
+ddlSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label23">
+<summary>
+Label23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label8">
+<summary>
+Label8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._txtNoPolUpdate">
+<summary>
+txtNoPolUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._NoPol4">
+<summary>
+NoPol4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label12">
+<summary>
+Label12 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._trHide">
+<summary>
+trHide control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label20">
+<summary>
+Label20 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._txtNoPolUpdate2">
+<summary>
+txtNoPolUpdate2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Textbox2">
+<summary>
+Textbox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label21">
+<summary>
+Label21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._txtRemarks">
+<summary>
+txtRemarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label14">
+<summary>
+Label14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label9">
+<summary>
+Label9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label10">
+<summary>
+Label10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label18">
+<summary>
+Label18 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label16">
+<summary>
+Label16 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label11">
+<summary>
+Label11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label19">
+<summary>
+Label19 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._Label17">
+<summary>
+Label17 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblID">
+<summary>
+lblID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblID2">
+<summary>
+lblID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblNamaKaryawan">
+<summary>
+lblNamaKaryawan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblNoPolExisting">
+<summary>
+lblNoPolExisting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblNoPolExisting2">
+<summary>
+lblNoPolExisting2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label24">
+<summary>
+Label24 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label25">
+<summary>
+Label25 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblTypeKendExisting">
+<summary>
+lblTypeKendExisting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label15">
+<summary>
+Label15 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblRange">
+<summary>
+lblRange control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._chkP3">
+<summary>
+chkP3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._chkP4">
+<summary>
+chkP4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._chkP5">
+<summary>
+chkP5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._chkUpdate">
+<summary>
+chkUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lb22">
+<summary>
+lb22 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._lblErr_Upload">
+<summary>
+lblErr_Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._ddl">
+<summary>
+ddl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._trSingle">
+<summary>
+trSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label22">
+<summary>
+Label22 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._ddlSingle">
+<summary>
+ddlSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label23">
+<summary>
+Label23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label8">
+<summary>
+Label8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._txtNoPolUpdate">
+<summary>
+txtNoPolUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._NoPol4">
+<summary>
+NoPol4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label12">
+<summary>
+Label12 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._trHide">
+<summary>
+trHide control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label20">
+<summary>
+Label20 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._txtNoPolUpdate2">
+<summary>
+txtNoPolUpdate2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Textbox2">
+<summary>
+Textbox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label21">
+<summary>
+Label21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._txtRemarks">
+<summary>
+txtRemarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label14">
+<summary>
+Label14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label9">
+<summary>
+Label9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label10">
+<summary>
+Label10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label18">
+<summary>
+Label18 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label16">
+<summary>
+Label16 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label11">
+<summary>
+Label11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label19">
+<summary>
+Label19 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._Label17">
+<summary>
+Label17 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Insert_Parking2._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._ChkEmpl1">
+<summary>
+ChkEmpl1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lblEmplID1">
+<summary>
+lblEmplID1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._txtEmplID">
+<summary>
+txtEmplID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lblEmplID2">
+<summary>
+lblEmplID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._ChkName">
+<summary>
+ChkName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._txtName">
+<summary>
+txtName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._chkYear">
+<summary>
+chkYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._ddlyear">
+<summary>
+ddlyear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._chkEntity2">
+<summary>
+chkEntity2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._ddlEntity2">
+<summary>
+ddlEntity2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._chkEntity">
+<summary>
+chkEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._ddlEntity">
+<summary>
+ddlEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._Search">
+<summary>
+Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lnkExport">
+<summary>
+lnkExport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._btn_Hidden">
+<summary>
+btn_Hidden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._dgListApproval2">
+<summary>
+dgListApproval2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._pnlfooter">
+<summary>
+pnlfooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._tablepaging">
+<summary>
+tablepaging control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lbFirst">
+<summary>
+lbFirst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lbPrev">
+<summary>
+lbPrev control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._txtGO">
+<summary>
+txtGO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lblTotal">
+<summary>
+lblTotal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lnkGo">
+<summary>
+lnkGo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lnkNext">
+<summary>
+lnkNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lnkLast">
+<summary>
+lnkLast control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._lblTotalRecords">
+<summary>
+lblTotalRecords control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._ddl_View">
+<summary>
+ddl_View control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Approval._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ChkEmpl1">
+<summary>
+ChkEmpl1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lblEmplID1">
+<summary>
+lblEmplID1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._txtEmplID">
+<summary>
+txtEmplID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lblEmplID2">
+<summary>
+lblEmplID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ChkName">
+<summary>
+ChkName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._txtName">
+<summary>
+txtName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ChkUpdate">
+<summary>
+ChkUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ddlUpdate">
+<summary>
+ddlUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._chkPeriod">
+<summary>
+chkPeriod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._txtPeriod">
+<summary>
+txtPeriod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lblErrPeriod">
+<summary>
+lblErrPeriod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._chkEntity2">
+<summary>
+chkEntity2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ddlEntity2">
+<summary>
+ddlEntity2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._chkEntity">
+<summary>
+chkEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ddlEntity">
+<summary>
+ddlEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Label8">
+<summary>
+Label8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._Search">
+<summary>
+Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lnkExport">
+<summary>
+lnkExport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._btn_Hidden">
+<summary>
+btn_Hidden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._dgRekeningKoran2">
+<summary>
+dgRekeningKoran2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._pnlfooter">
+<summary>
+pnlfooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._tablepaging">
+<summary>
+tablepaging control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lbFirst">
+<summary>
+lbFirst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lbPrev">
+<summary>
+lbPrev control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._txtGO">
+<summary>
+txtGO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lblTotal">
+<summary>
+lblTotal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lnkGo">
+<summary>
+lnkGo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lnkNext">
+<summary>
+lnkNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lnkLast">
+<summary>
+lnkLast control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._lblTotalRecords">
+<summary>
+lblTotalRecords control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._ddl_View">
+<summary>
+ddl_View control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimburs._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._CheckYear">
+<summary>
+CheckYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lblYear">
+<summary>
+lblYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._ddlYear">
+<summary>
+ddlYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lblYear2">
+<summary>
+lblYear2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._Search">
+<summary>
+Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lnkExport">
+<summary>
+lnkExport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._btn_Hidden">
+<summary>
+btn_Hidden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._dgListReimbursEmployee2">
+<summary>
+dgListReimbursEmployee2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._pnlfooter">
+<summary>
+pnlfooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._tablepaging">
+<summary>
+tablepaging control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lbFirst">
+<summary>
+lbFirst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lbPrev">
+<summary>
+lbPrev control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._txtGO">
+<summary>
+txtGO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lblTotal">
+<summary>
+lblTotal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lnkGo">
+<summary>
+lnkGo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lnkNext">
+<summary>
+lnkNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lnkLast">
+<summary>
+lnkLast control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._lblTotalRecords">
+<summary>
+lblTotalRecords control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._ddl_View">
+<summary>
+ddl_View control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._CheckEmpID">
+<summary>
+CheckEmpID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEmpID">
+<summary>
+lblEmpID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._txtEmpID">
+<summary>
+txtEmpID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEmpID2">
+<summary>
+lblEmpID2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._CheckEmpname">
+<summary>
+CheckEmpname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEmpname">
+<summary>
+lblEmpname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._txtEmpname">
+<summary>
+txtEmpname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEmpname2">
+<summary>
+lblEmpname2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._CheckEntity">
+<summary>
+CheckEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._ddlEntity">
+<summary>
+ddlEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEntity2">
+<summary>
+lblEntity2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._CheckEntity1">
+<summary>
+CheckEntity1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblEntity1">
+<summary>
+lblEntity1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._ddlEntity1">
+<summary>
+ddlEntity1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._CheckYear">
+<summary>
+CheckYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblYear">
+<summary>
+lblYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._ddlYear">
+<summary>
+ddlYear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblYear2">
+<summary>
+lblYear2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._Search">
+<summary>
+Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lnkExport">
+<summary>
+lnkExport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._btn_Hidden">
+<summary>
+btn_Hidden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._dgListReimbursEmployee">
+<summary>
+dgListReimbursEmployee control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._pnlfooter">
+<summary>
+pnlfooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._tablepaging">
+<summary>
+tablepaging control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lbFirst">
+<summary>
+lbFirst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lbPrev">
+<summary>
+lbPrev control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._txtGO">
+<summary>
+txtGO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblTotal">
+<summary>
+lblTotal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lnkGo">
+<summary>
+lnkGo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lnkNext">
+<summary>
+lnkNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lnkLast">
+<summary>
+lnkLast control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._lblTotalRecords">
+<summary>
+lblTotalRecords control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._ddl_View">
+<summary>
+ddl_View control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_List_Reimbursment_Request_Admin._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._EmpID">
+<summary>
+EmpID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._lblEmplID">
+<summary>
+lblEmplID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Name">
+<summary>
+Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Entity">
+<summary>
+Entity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._lbltipe">
+<summary>
+lbltipe control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._ddl_tipekendaraan">
+<summary>
+ddl_tipekendaraan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._trSingle">
+<summary>
+trSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._lblsingledouble">
+<summary>
+lblsingledouble control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._ddlsingledouble">
+<summary>
+ddlsingledouble control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Label23">
+<summary>
+Label23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._trNoPol1">
+<summary>
+trNoPol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._nopol1">
+<summary>
+nopol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txtnopol1">
+<summary>
+txtnopol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._NoPol4">
+<summary>
+NoPol4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._trNoPol2">
+<summary>
+trNoPol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._nopol2">
+<summary>
+nopol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txtnopol2">
+<summary>
+txtnopol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Textbox2">
+<summary>
+Textbox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Label21">
+<summary>
+Label21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._totalamount">
+<summary>
+totalamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txttotalamount">
+<summary>
+txttotalamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._datefrom">
+<summary>
+datefrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txtdatefrom">
+<summary>
+txtdatefrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._dateto">
+<summary>
+dateto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txtdateto">
+<summary>
+txtdateto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._totaldays">
+<summary>
+totaldays control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txttotalday">
+<summary>
+txttotalday control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Year">
+<summary>
+Year control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._ddlyear">
+<summary>
+ddlyear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txtUpload">
+<summary>
+txtUpload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Upload">
+<summary>
+Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._lblmandatory">
+<summary>
+lblmandatory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._LinkDwn1">
+<summary>
+LinkDwn1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._remarks">
+<summary>
+remarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._txtremarks">
+<summary>
+txtremarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._btnBack">
+<summary>
+btnBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Employee._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._EmpID">
+<summary>
+EmpID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._lblEmplID">
+<summary>
+lblEmplID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Name">
+<summary>
+Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Entity">
+<summary>
+Entity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._lblEntity">
+<summary>
+lblEntity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._lbltipe">
+<summary>
+lbltipe control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._ddl_tipekendaraan">
+<summary>
+ddl_tipekendaraan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._trSingle">
+<summary>
+trSingle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._lblsingledouble">
+<summary>
+lblsingledouble control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._ddlsingledouble">
+<summary>
+ddlsingledouble control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Label23">
+<summary>
+Label23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._trNoPol1">
+<summary>
+trNoPol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._nopol1">
+<summary>
+nopol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txtnopol1">
+<summary>
+txtnopol1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._NoPol4">
+<summary>
+NoPol4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._trNoPol2">
+<summary>
+trNoPol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._nopol2">
+<summary>
+nopol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txtnopol2">
+<summary>
+txtnopol2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Textbox2">
+<summary>
+Textbox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._totalamount">
+<summary>
+totalamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txttotalamount">
+<summary>
+txttotalamount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._datefrom">
+<summary>
+datefrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txtdatefrom">
+<summary>
+txtdatefrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._dateto">
+<summary>
+dateto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txtdateto">
+<summary>
+txtdateto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._totaldays">
+<summary>
+totaldays control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txttotalday">
+<summary>
+txttotalday control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Year">
+<summary>
+Year control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._ddlyear">
+<summary>
+ddlyear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txtUpload">
+<summary>
+txtUpload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Upload">
+<summary>
+Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._lblmandatory">
+<summary>
+lblmandatory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._remarks">
+<summary>
+remarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._txtremarks">
+<summary>
+txtremarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_Reimbursment_Request._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._menu1">
+<summary>
+menu1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._lblErr_ATP">
+<summary>
+lblErr_ATP control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._txtUserName">
+<summary>
+txtUserName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._btnRetr">
+<summary>
+btnRetr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._DropDownList1">
+<summary>
+DropDownList1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._TreeView1">
+<summary>
+TreeView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._BtnDelete">
+<summary>
+BtnDelete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._btnBack">
+<summary>
+btnBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Frm_User_Matrix._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Home._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Home._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Home._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Home._My1">
+<summary>
+My1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Home._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Login._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Login._txtUser">
+<summary>
+txtUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Login._txtPass">
+<summary>
+txtPass control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Login._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Login._lblLogin">
+<summary>
+lblLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Footer._Table4">
+<summary>
+Table4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Footer._lbl2">
+<summary>
+lbl2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Header._imgAXA">
+<summary>
+imgAXA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Header._LogOut">
+<summary>
+LogOut control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Header._lblWe">
+<summary>
+lblWe control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Header._lblGreet">
+<summary>
+lblGreet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Header._LBLEmplNumber">
+<summary>
+LBLEmplNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.Menu._Menu1">
+<summary>
+Menu1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:HRReimbursParking.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:HRReimbursParking.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:HRReimbursParking.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:HRReimbursParking.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:HRReimbursParking.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:HRReimbursParking.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:HRReimbursParking.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HRReimbursParking.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HRReimbursParking.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._menu1">
+<summary>
+menu1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._txtUpload">
+<summary>
+txtUpload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._lblErr_Upload">
+<summary>
+lblErr_Upload control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._btnBack">
+<summary>
+btnBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:HRReimbursParking.UploadDataKaryawan._My3">
+<summary>
+My3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
